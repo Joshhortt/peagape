@@ -54,7 +54,6 @@ switch () {
     echo "There is no answer"; // after the default we don t add any break because we don t have any new cases
 }
 
-
 ?>
 
 </body>
