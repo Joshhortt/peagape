@@ -17,9 +17,9 @@ _arrays, conditional statements, file handling, database handling using SQL and 
 
 ## Additional Tutorials
 
-Geeks For Geeks : https://www.geeksforgeeks.org/ 
-W3Schools : https://www.w3schools.com/ 
-PHP Documentation : https://www.php.net/
+[Geeks For Geeks :](https://www.geeksforgeeks.org/)
+[W3Schools :](https://www.w3schools.com/) 
+[PHP Documentation :](https://www.php.net/) 
 
 
 ## How to use
