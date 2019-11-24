@@ -15,11 +15,11 @@ _Second, It's the way portuguese speaking people like me pronounce PHP_.<br/>
 _This Tutorial teaches basic PHP covering from basic introduction, variables, operators, functions_,<br/>
 _arrays, conditional statements, file handling, database handling using SQL and more_.
 
-# Additional Tutorials
+## Additional Tutorials
 
-_Geeks For Geeks : https://www.geeksforgeeks.org/ _<br/>
-_W3Schools : https://www.w3schools.com/ _.<br/>
-_PHP Documentation : https://www.php.net/ _.
+Geeks For Geeks : https://www.geeksforgeeks.org/ 
+W3Schools : https://www.w3schools.com/ 
+PHP Documentation : https://www.php.net/
 
 
 ## How to use
