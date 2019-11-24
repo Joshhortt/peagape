@@ -21,6 +21,7 @@ PHP Documentation : https://www.php.net/
 <form method="GET">
     <input type="text" name="person">
     <button>SUBMIT</button>
+</form>
 
 <?php
 
