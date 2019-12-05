@@ -1,6 +1,6 @@
 <!-- 36: How to connect to a database in PHP | PHP tutorial | Learn PHP programming  -->
 
-<!--First we need to get the 4 parameters to get the databes running
+<!--First we need to get the 4 parameters to get the database running
 
 <?php
 
